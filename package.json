@@ -1,0 +1,15 @@
+{
+  "name": "buninfo",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@eslint/js": "^9.2.0",
+    "@types/bun": "latest",
+    "@types/figlet": "^1.5.8",
+    "globals": "^15.1.0"
+  },
+  "dependencies": {
+    "figlet": "^1.7.0",
+    "systeminformation": "^5.22.7"
+  }
+}
